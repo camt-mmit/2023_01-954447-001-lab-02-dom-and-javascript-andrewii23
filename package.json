@@ -2,5 +2,7 @@
   "name": "dom",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": "https://github.com/camt-mmit/2023_01-954447-001-lab-02-dom-and-javascript-andrewii23.git",
+  "author": "Warodom Techafong <andrewafnz@gmail.com>"
 }
